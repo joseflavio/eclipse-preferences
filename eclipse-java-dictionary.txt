@@ -1,5 +1,17 @@
 sudo
 mvn
+maven
 jdk
 openjdk
 ubuntu
+localhost
+codec
+api
+junit
+servlet
+jetty
+plugin
+plugins
+findbugs
+lifecycle
+bloatware
