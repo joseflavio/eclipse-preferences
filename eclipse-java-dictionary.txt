@@ -57,3 +57,4 @@ plugins
 servlet
 sudo
 ubuntu
+uname
