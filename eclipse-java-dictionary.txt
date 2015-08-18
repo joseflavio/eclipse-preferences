@@ -44,12 +44,15 @@ datetime
 db
 deprecated
 findbugs
+guava
 jdk
 jetty
 junit
 lifecycle
 localhost
 maven
+mongo
+mongodb
 mvn
 openjdk
 plugin
