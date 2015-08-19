@@ -45,6 +45,7 @@ css
 cvs
 datetime
 db
+dd
 deprecated
 dev
 doctype
@@ -85,3 +86,4 @@ ubuntu
 uname
 url
 utf
+yyyy
