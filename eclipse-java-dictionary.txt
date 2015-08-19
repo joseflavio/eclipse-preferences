@@ -22,6 +22,7 @@ bool
 bytecode
 callback
 callbacks
+camelcase
 carte
 cawker
 centre
