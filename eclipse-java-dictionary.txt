@@ -111,3 +111,7 @@ yyyy
 bak
 temp
 tmp
+mac
+tomcat
+uniq
+cygwin
