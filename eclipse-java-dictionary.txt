@@ -100,9 +100,11 @@ quirk
 quirks
 redeploy
 revalidate
+repo
 servlet
 servlets
 sh
+src
 sudo
 temp
 tmp
