@@ -116,3 +116,8 @@ utf
 webapp
 webpage
 yyyy
+fib
+trie
+pre
+unicode
+memoization
