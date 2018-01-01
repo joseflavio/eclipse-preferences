@@ -67,6 +67,8 @@ findbugs
 flavio
 fn
 fulkerson
+gbps
+gigabit
 git
 gson
 guava
@@ -94,12 +96,15 @@ localhost
 mac
 maven
 memoization
+micromanagement
 min
 mongo
 mongodb
+ms
 mutex
 mvn
 nginx
+ns
 openjdk
 plugin
 plugins
