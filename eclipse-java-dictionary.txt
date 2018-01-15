@@ -79,6 +79,7 @@ fn
 foo
 fulkerson
 gbps
+geolocation
 gigabit
 git
 gmail
@@ -105,6 +106,7 @@ joseflavio
 json
 jul
 junit
+kanban
 lifecycle
 localhost
 lte
@@ -127,6 +129,7 @@ plugins
 polymorphism
 popup
 pre
+proxies
 proxy
 quirk
 quirks
