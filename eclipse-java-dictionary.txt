@@ -15,6 +15,7 @@ apis
 app
 applet
 apps
+asm
 async
 atomicity
 aug
@@ -67,8 +68,11 @@ docs
 doctype
 donut
 downgrade
+eax
+ebx
 endif
 env
+extern
 fib
 fibonacci
 findbugs
@@ -107,6 +111,8 @@ json
 jul
 junit
 kanban
+lea
+lib
 lifecycle
 localhost
 lte
@@ -117,11 +123,15 @@ micromanagement
 min
 mongo
 mongodb
+mov
 ms
+msg
 mutex
 mvn
+nasm
 netflix
 nginx
+obj
 ola
 openjdk
 plugin
@@ -149,6 +159,7 @@ src
 struct
 sudo
 synaptics
+syscall
 temp
 titus
 tmp
