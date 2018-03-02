@@ -19,6 +19,7 @@ asm
 async
 atomicity
 aug
+autoplay
 backtrace
 bak
 bezier
@@ -119,6 +120,7 @@ lte
 mac
 maven
 memoization
+mesurables
 micromanagement
 min
 mongo
@@ -146,9 +148,11 @@ quirks
 radeon
 radian
 radians
+reachability
 redeploy
 repo
 revalidate
+safari
 scalability
 seasonic
 servlet
