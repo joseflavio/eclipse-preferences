@@ -185,3 +185,10 @@ webapp
 webpage
 xorg
 yyyy
+mini
+cpu
+num
+celeron
+stuttering
+nb
+lcs
