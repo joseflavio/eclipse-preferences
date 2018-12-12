@@ -1,7 +1,9 @@
+@echo off
 where /q uniq
 IF ERRORLEVEL 1 (
     ECHO The application "uniq" is missing, maybe Cygwin is not installed?
-    ECHO Ensure it is installed and placed in your PATH.
+    ECHO Normally it is found at: C:\cygwin64\bin\uniq.exe
+    ECHO Ensure it is installed and placed in your PATH - Uniq is part of standard Cygwin installation:
     EXIT /B
 )
 
