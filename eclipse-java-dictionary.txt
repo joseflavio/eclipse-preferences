@@ -271,3 +271,5 @@ jon
 tech
 camille
 redis
+shaman
+mindset
