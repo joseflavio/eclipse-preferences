@@ -278,3 +278,6 @@ transactional
 ns
 timesheet
 laptop
+geo
+stateless
+subarray
